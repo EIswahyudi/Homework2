@@ -1,0 +1,112 @@
+a.navbar-brand{
+    background-color: #4aaaa5;
+    padding: 40px 30px 40px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+}
+.navbar-expand-lg {
+    margin: 0px;
+}
+
+.navbar-light .navbar-brand {
+    color: white!important;
+}
+
+.nav-link{
+    margin: 70px;
+    float: right;
+}
+
+#container {
+    color: #4aaaa5;
+    background-image: black;
+    
+}
+body {
+    margin: 30px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url(../EIswahyudi.github.io/ep_naturalwhite.png);
+    
+}
+
+img {
+    width: 280px;
+    height: 280px;
+}
+
+p{ 
+    background-color: white;
+    color: #777777;
+    margin: 20px;
+}
+
+  div#container{
+    background-color: white;
+    border: solid#dddddd 1px;
+  }
+
+footer {
+    background-color: hsl(0, 4%, 15%);
+    text-align: center;
+    padding: 20px 100px 20px 100px;
+    color: white;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+  }
+  input[type=text] {
+    width: 84.5%;
+    padding: 80px;
+    margin: 10px;
+  }
+  
+  input[type=submit] {
+    width: 10%;
+    background-color:#4aaaa5;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+  }
+
+  div#class{
+    background-color: white;
+    width: 960px;
+    border: solid#dddddd 2px;
+    margin: 0px 0px 0px 220px;
+  }
+
+  label{
+      color:#777777;
+      padding: 10px;
+  }
+#h2{ 
+      color: #4aaaa5;
+  }
+
+  .child {
+    background-color:#4aaaa5;
+    color: white;
+    margin: 0px 360px 0px 315px;
+    text-align: center;
+    position: relative;
+    right:33%;
+    top: -70px;
+  }
+
+  .child2 {
+    background-color:#4aaaa5;
+    color: white;
+    margin: 0px 75px 0px 616px;
+    text-align: center;
+    position: relative;
+    right:63%;
+    top: 70px;
+  }
